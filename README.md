@@ -6,7 +6,7 @@ HTML
 
 -CSS
 -JAVASCRIPT
-
+-Jquery
 -BOOSTRAP
 -SQL
 ###  các chức an
