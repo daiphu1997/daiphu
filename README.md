@@ -21,7 +21,8 @@ Thêm sản phẩm vào giỏ hang.
 -Thanh toán.
 -Reponsive.
 ####  các tính năng chưa hoàn thành
-phân quyền
+phân quyền.
+
 khuyến mại
 
 xin cảm ơn
